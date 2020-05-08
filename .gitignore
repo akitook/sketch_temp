@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# IDE / Editor
+.idea/*
+
+# Mac OSX
+.DS_Store
+
+# dist
+dist/
